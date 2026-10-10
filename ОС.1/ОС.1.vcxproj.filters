@@ -23,7 +23,7 @@
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="Header.h">
+    <ClInclude Include="Способ учета динмамической памяти.h">
       <Filter>Исходные файлы</Filter>
     </ClInclude>
   </ItemGroup>
